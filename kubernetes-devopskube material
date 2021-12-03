@@ -1,5 +1,20 @@
 https://devopscube.com/kubernetes-logging-tutorial/
 https://devopscube.com/become-devops-engineer/
+https://devopscube.com/kubernetes-tutorials-beginners/
+
+SETUP KUBERNETES CLUSTER
+https://devopscube.com/setup-kubernetes-cluster-google-cloud/
+
+MONITORING:
+https://devopscube.com/setup-prometheus-monitoring-on-kubernetes/
+
+
+
+
+GKE has two types of clusters.
+
+Autopilot Cluster: All cluster infrastructure operations are taken care of by Google cloud. You just have to focus on application deployments.
+Standard Cluster: Here except for the control plane, you have to manage the underlying infrastructure (Nodes, scaling etc)
 
 
 
