@@ -1,0 +1,15 @@
+https://devopscube.com/kubernetes-logging-tutorial/
+https://devopscube.com/become-devops-engineer/
+
+
+
+
+DevOps (a clipped compound of development and operations) is a culture, movement or practice that emphasizes the collaboration and communication of both software developers 
+and other information-technology (IT) professionals while automating the process of software delivery and infrastructure changes.
+
+
+Every company will have a logging and monitoring infrastructure. Commonly used logging stacks are Splunk and ELK. Also, there are few SaaS companies like Loggly, 
+which provide logging infrastructure.
+
+For monitoring, there are open source tools like Prometheus, Nagios and enterprise tools like AppDynamics, Datadog, SignalFx, etc. Check out our blog on the best 
+open source monitoring tools.
