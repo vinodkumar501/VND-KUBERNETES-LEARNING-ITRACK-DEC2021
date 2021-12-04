@@ -42,3 +42,6 @@ which provide logging infrastructure.
 
 For monitoring, there are open source tools like Prometheus, Nagios and enterprise tools like AppDynamics, Datadog, SignalFx, etc. Check out our blog on the best 
 open source monitoring tools.
+
+What is Kubeadm?
+Kubeadm is a tool to set up a minimum viable Kubernetes cluster without much complex configuration.
