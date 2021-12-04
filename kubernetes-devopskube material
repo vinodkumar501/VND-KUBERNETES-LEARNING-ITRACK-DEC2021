@@ -1,13 +1,27 @@
 https://devopscube.com/kubernetes-logging-tutorial/
 https://devopscube.com/become-devops-engineer/
 https://devopscube.com/kubernetes-tutorials-beginners/
+https://devopscube.com/category/kubernetes/
+https://devopscube.com/kubernetes-tutorials-beginners/
+
 
 SETUP KUBERNETES CLUSTER
 https://devopscube.com/setup-kubernetes-cluster-google-cloud/
 
-MONITORING:
-https://devopscube.com/setup-prometheus-monitoring-on-kubernetes/
+logging:
+https://devopscube.com/kubernetes-logging-tutorial/
+how to become devops engineer?
+https://devopscube.com/become-devops-engineer/
 
+Prometheus MONITORING:
+https://devopscube.com/setup-prometheus-monitoring-on-kubernetes/
+https://devopscube.com/setup-kube-state-metrics/
+https://devopscube.com/setup-grafana-kubernetes/
+https://devopscube.com/node-exporter-kubernetes/
+https://devopscube.com/alert-manager-kubernetes-guide/
+
+Jenkins pipeline:
+https://devopscube.com/jenkins-pipeline-as-code/
 
 
 
